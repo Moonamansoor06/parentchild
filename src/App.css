@@ -3,7 +3,12 @@
 }
 
 
-
+#child{
+  box-sizing: border-box;
+  width: 2000px;
+  padding: 50px 50px;
+  margin: 50px 50px;
+}
 
 .App {
   background-color: #282c34;
