@@ -3,7 +3,7 @@ import React from "react"
 function Child(props){
 
         return (
-            <div id= "childdiv" style={{ background: 'green' }}>
+            <div id= "childdiv" style={{ background: 'blue' }}>
                
       
       
