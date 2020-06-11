@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       
-     <Child studentName={"Sidra"} studentAge={"22"}/>
+     <Child studentName={"Sidra"} studentAge={"22"} studentAddress={"Karachi"} />
     </div>
   );
 }
